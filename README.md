@@ -19,3 +19,16 @@ The product range includes up to 21,700 items and can vary depending on the size
   With thousands of individual managers predicting sales based on their unique circumstances , the accuracy of result can be quite varied.
  The main objective is to understand existing data and after identifying the key factors that will predict future sales, a predictive model will be built for making forecasts about future sales.
 
+# Outcomesnapshot
+![image](https://github.com/Pallavi-star2002/Rossmann_Store_Sales_Prediction/assets/67356946/1b9d2821-cc85-4120-8f9a-56353da673ad)
+![image](https://github.com/Pallavi-star2002/Rossmann_Store_Sales_Prediction/assets/67356946/0ee3f7e6-d3b2-46dd-8072-4d86fbbea73d)
+![image](https://github.com/Pallavi-star2002/Rossmann_Store_Sales_Prediction/assets/67356946/23dad45f-84b8-46c4-947a-1d12528a0545)
+![image](https://github.com/Pallavi-star2002/Rossmann_Store_Sales_Prediction/assets/67356946/618e0103-8594-40d2-80c4-116c11e34840)
+![image](https://github.com/Pallavi-star2002/Rossmann_Store_Sales_Prediction/assets/67356946/f2ee4e19-ddca-46d2-b782-6d3be753d369)
+![Capture](https://github.com/Pallavi-star2002/Rossmann_Store_Sales_Prediction/assets/67356946/ae585e93-655e-4e5c-b6c7-514a940a99bb)
+
+
+
+
+
+
